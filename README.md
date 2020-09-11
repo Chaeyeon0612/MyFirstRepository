@@ -7,6 +7,6 @@
   2. 두번째
   3. __세번째__
   
-  <img width=""height="" src="./png/1.jpg">
+  <img width="" height="" src="./png/1.jpg">
 
 Hello my name is Chaeyeon
