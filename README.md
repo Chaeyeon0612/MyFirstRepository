@@ -1,12 +1,7 @@
-# MyFirstRepository
+# 19173027 이채연
 
-## 중간제목
-[chaeyeonnet](https://github.com/Chaeyeon0612 "chaeyeonnet")
-### 작은제목
-  1. 첫번째
-  2. 두번째
-  3. __세번째__
-  
-  <img width="" height="" src="./png/1.jpg">
+## 1주차 과제
 
-Hello my name is Chaeyeon
+## 2주차 과제
+
+## 3주차 과제
