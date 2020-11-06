@@ -19,5 +19,5 @@
  <img width="" height="" src="./png/7주차고양이.jpg"></img>
 
 ## 10주차 과제
- <img width="" height="" src="./png/10주차과제물1.png"></img>
- <img width="" height="" src="./png/10주차과제물2.png"></img>
+ <img width="" height="" src="./png/10주차과제물1.jpg"></img>
+ <img width="" height="" src="./png/10주차과제물2.jpg"></img>
